@@ -1,0 +1,7 @@
+hola mundo!
+Art. 14º Encontramos cuatro garantías: la de irretroactividad de las leyes, la de audiencia, la de legalidad en materia civil y la exacta aplicación de la ley en materia penal.
+Art. 15º No se puede extraditar reos políticos, ni delincuentes del orden común que hayan tenido la condición de esclavos en el país, ni la celebración de convenios en virtud de alterar sus garantías y derechos establecidos.
+Art. 16º Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
+Art. 17º Nadie puede hacerse justicia por sí mismo, ni ejercer violencia para reclamar sus derechos. Pero se tiene derecho a recibir justicia, gratuitamente. Nadie puede ser aprisionado por deudas de carácter civil.
+Art. 18 Solo habrá lugar a prisión preventiva por delito que merezca pena corporal. Los gobiernos de la Federación y los estados organizaran el sistema penal. La federación y los gobiernos de los estados establecerán instituciones para menores infractores.
+Art. 19º Ninguna detención ante autoridad judicial podrá sobrepasar las 72 horas sin haberse declarado una auto de vinculación a proceso (se aclararan el delito, lugar, tiempo, circunstancias y los datos de la carpeta de investigación).Todo proceso se seguirá por el delito señalado, si hubiese otro, se tendría que repetir el proceso con el otro delito.
